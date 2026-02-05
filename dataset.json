@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "prod_1",
+    "title": "iPhone 17 Pro",
+    "description": "Latest Apple iPhone 17 Pro with advanced camera and processing power",
+    "category": "phones",
+    "price": 999.99
+  },
+  {
+    "_id": "prod_2",
+    "title": "iPhone 17",
+    "description": "Apple iPhone 17 smartphone with great features",
+    "category": "phones",
+    "price": 799.99
+  },
+  {
+    "_id": "prod_3",
+    "title": "Samsung Galaxy S24",
+    "description": "Premium Android smartphone with excellent camera for content creation",
+    "category": "phones",
+    "price": 899.99
+  },
+  {
+    "_id": "prod_4",
+    "title": "Nike Air Max Running Shoes",
+    "description": "Comfortable athletic shoes perfect for hiking and running",
+    "category": "shoes",
+    "price": 129.99
+  },
+  {
+    "_id": "prod_5",
+    "title": "Nike Jordan Basketball Shoes",
+    "description": "Professional basketball shoes with cushioning support",
+    "category": "shoes",
+    "price": 179.99
+  },
+  {
+    "_id": "prod_6",
+    "title": "Adidas Ultraboost Sneakers",
+    "description": "Comfortable sneakers ideal for hiking and outdoor activities",
+    "category": "shoes",
+    "price": 149.99
+  },
+  {
+    "_id": "prod_7",
+    "title": "Canon EOS R5 Camera",
+    "description": "Professional mirrorless camera for content creators and videographers",
+    "category": "cameras",
+    "price": 3899.99
+  },
+  {
+    "_id": "prod_8",
+    "title": "Sony Alpha 7 Camera",
+    "description": "Full-frame camera excellent for video content and photography",
+    "category": "cameras",
+    "price": 1998.00
+  }
+]
